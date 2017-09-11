@@ -1,0 +1,24 @@
+{ 
+    "_id" : "03213bb2-7f7f-4f36-992a-88b130c4ed86", 
+    "NameLast" : "Cinkan", 
+    "NameFirst" : "Lorenzo", 
+    "EMail" : "Lorenzo.Cinkan@mail2ted.com", 
+    "Company" : "mail2ted.com", 
+    "MemberSince" : "2009-03-20T00:00:00", 
+    "Birthday" : "1990-09-13T00:00:00", 
+    "Addresses" : [
+        {
+            "Address1" : "2388 Industrial Drive Ports", 
+            "Address2" : null, 
+            "City" : "Cooleemee", 
+            "State" : "OK", 
+            "Zip" : "37050", 
+            "Kind" : "Mailing"
+        }
+    ], 
+    "Preference" : {
+        "suscipit-0" : "Illum velit qui incidunt.", 
+        "fugiat-1" : "Eget reprehenderit quaeratvoluptatem dignissimos rhoncus mauris.", 
+        "cumque-2" : "Dapibus laoreet doloribus suscipit beatae sunt."
+    }
+}
